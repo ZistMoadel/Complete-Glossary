@@ -1,1 +1,1 @@
-# ZistMoadel Glossary - Release date: September 13th 2015.
+# ZistMoadel Glossary - Release date: September 13th 2016.
